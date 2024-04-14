@@ -14,7 +14,7 @@ const RightSideNav = () => {
                 </button>
                 <button className="btn btn-outline w-full">
                     <FaGithub></FaGithub>
-                    Login with Google
+                    Login with GitHub
                 </button>
             </div>
             <div className="p-4">
